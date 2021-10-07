@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>me.png</file>
+        <file>copy.png</file>
+        <file>help.png</file>
+        <file>paste.png</file>
+        <file>open_folder.png</file>
+        <file>save.png</file>
+        <file>zoom_in.png</file>
+        <file>zoom_out.png</file>
+        <file>light.png</file>
+    </qresource>
+</RCC>
