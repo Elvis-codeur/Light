@@ -4,6 +4,4 @@
 
 -- Le logiciel supporte les formats BMP,JPG, JPEG,PNG,PPM,XBM,XPM. 
 
--- Une fois une image ouverte dans un dossier,il suffit d'appuyer sur le boutton gauche ou droite pour voir les autres images du dossier. 
-
--- Mon premier logiciel.
+-- Une fois une image ouverte dans un dossier,il suffit d'appuyer sur le boutton gauche ou droite pour voir les autres images du dossier.
